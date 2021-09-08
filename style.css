@@ -72,17 +72,12 @@ h1.temp{
 
 .weather.loading{
     visibility: hidden;
-    max-height: 20px;
+    max-height: 5px;
     position: relative;
 }
 
 .weather.loading::after{
     visibility: visible;
-    content:' Loading...';
-    color: #fff;
-    position: absolute;
-    top: 0;
-    left: 20px;
 }
 
 
