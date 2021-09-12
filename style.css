@@ -8,6 +8,7 @@ body{
     font-family: 'Open Sans', sans-serif;
     background: url('https://source.unsplash.com/1600x900/?landscape') no-repeat center center/cover;
     font-size: 120%;
+    overflow: hidden;
 }
 
 .main-container{
